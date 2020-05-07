@@ -4,6 +4,8 @@ Small movie ticket purchaser built for practice DOM manipulation and using local
 
 ## Live Demo
 
+Live version hosted [here](https://frederick-chon.github.io/MovieTickets/)
+
 ## Built Using
 
 - HTML
